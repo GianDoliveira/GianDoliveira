@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=500&duration=1500&pause=900&color=599A00&width=435&lines=Hello+world%2C+i'm+Gian;I'm+FullStack+Developer;Nice+to+see+you!)](https://git.io/typing-svg)
+
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=28&pause=1000&color=F70000&width=435&lines=Contatos)](https://git.io/typing-svg)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gian-de-oliveira/)
